@@ -27,6 +27,10 @@ The project employs a comprehensive methodological framework, including:
 - **Software Development**: Designing and implementing the AR application.
 - **User Testing**: Collecting and analyzing user feedback to refine the application and enhance user experience.
 
+## Video Demo
+
+Check out the video demo of My AR Idol on YouTube to see the application in action: [Watch the Demo]([https://www.youtube.com/your-video-link](https://youtu.be/C1l4xZH9jXI)
+
 ## Disclaimer
 
 This project is developed for educational purposes only. The use of logos, names, and images of idols included in this project is purely for demonstration and educational purposes. The project is not intended for commercial use, and no ownership is claimed over any third-party intellectual property. All rights to the images, logos, and names belong to their respective owners.
