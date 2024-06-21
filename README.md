@@ -32,16 +32,17 @@ The project employs a comprehensive methodological framework, including:
 Here are some screenshots of My AR Idol in action:
 
 ### Virtual Idol Interactions
-![Virtual Idol Interactions](screenshots/AR Screen_Indications.jpg)
+<img src="screenshots/AR%20Screen_Indications.jpg" alt="Virtual Idol Interactions" width="200">
 
 ### Photo Card Scanning
-![Photo Card Scanning](screenshots/Scan Card_New Item.jpg)
+<img src="screenshots/Scan%20Card_New%20Item.jpg" alt="Photo Card Scanning" width="200">
 
 ### Interactive Missions
-![Interactive Missions](screenshots/AR Screen_Missions One Green.jpg)
+<img src="screenshots/AR%20Screen_Missions%20One%20Green.jpg" alt="Interactive Missions" width="200">
 
 ### Personalization Options
-![Personalization Options](screenshots/Outfit Choice_Default Unblock.jpg)
+<img src="screenshots/Outfit%20Choice_Default%20Unblock.jpg" alt="Personalization Options" width="200">
+
 
 ## Video Demo
 
