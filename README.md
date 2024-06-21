@@ -27,9 +27,25 @@ The project employs a comprehensive methodological framework, including:
 - **Software Development**: Designing and implementing the AR application.
 - **User Testing**: Collecting and analyzing user feedback to refine the application and enhance user experience.
 
+## Screenshots
+
+Here are some screenshots of My AR Idol in action:
+
+### Virtual Idol Interactions
+![Virtual Idol Interactions](screenshots/virtual_idol_interactions.png)
+
+### Photo Card Scanning
+![Photo Card Scanning](screenshots/photo_card_scanning.png)
+
+### Interactive Missions
+![Interactive Missions](screenshots/interactive_missions.png)
+
+### Personalization Options
+![Personalization Options](screenshots/personalization_options.png)
+
 ## Video Demo
 
-Check out the video demo of My AR Idol on YouTube to see the application in action: [Watch the Demo]([https://www.youtube.com/your-video-link](https://youtu.be/C1l4xZH9jXI)
+Check out the video demo of My AR Idol on YouTube to see the application in action: [Watch the Demo](https://youtu.be/C1l4xZH9jXI)
 
 ## Disclaimer
 
