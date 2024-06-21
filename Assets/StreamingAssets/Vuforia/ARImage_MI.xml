@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="EXO_CY_PC_SPACE" size="1.000000 1.544615" />
+    <ImageTarget name="EXO_BH_PC" size="1.000000 1.544615" />
+    <ImageTarget name="EXO_CY_PC" size="1.000000 1.544615" />
+    <ImageTarget name="Logo_White" size="1.000000 1.544615" />
+  </Tracking>
+</QCARConfig>

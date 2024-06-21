@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679553faa086cdc48a58556300e27230, type: 3}
+  m_Name: My Mini Idol
+  m_EditorClassIdentifier: 
+  title: My Mini Idol
+  fullName: workspaces/my_mini_idol
+  characters:
+  - {fileID: 11400000, guid: 006d8a03f30e7cf4eb28c9892e15fc65, type: 2}
+  scenes:
+  - {fileID: 11400000, guid: b9d8814509b2f83418fa96e56d776a99, type: 2}
+  integrations:
+  - {fileID: 11400000, guid: b56127cfd75a6a047aa2e3c9cd2fb4da, type: 2}
+  index: 0
