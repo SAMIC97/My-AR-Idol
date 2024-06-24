@@ -4,7 +4,7 @@ My AR Idol is an innovative augmented reality (AR) application designed to enhan
 
 ## Features
 
-- **Virtual Idol Interactions**: Engage with virtual character based on your favorite K-pop idols.
+- **Virtual Idol Interactions**: Interact and converse with AI-powered virtual characters based on your favorite K-pop idols.
 - **Photo Card Scanning**: Add to your library the unique photo cards of your favorite idols by scanning them.
 - **Interactive Missions**: Complete missions assigned by virtual idols to earn rewards and enhance your fan experience.
 - **Personalization Options**: Customize your interactions by inputting your name and choosing outfits for the virtual idols.
